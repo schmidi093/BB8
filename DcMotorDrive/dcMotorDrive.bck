@@ -1,0 +1,11 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ACT4065A
+F Datasheets/ACT4065A_Datasheet-346092.pdf
+$ENDCMP
+#
+$CMP VNH7100BASTR
+F Datasheets/hbridge_VNH7100BASTR.pdf
+$ENDCMP
+#
+#End Doc Library
